@@ -202,5 +202,16 @@ text-align: center;
     text-align: center;
     padding: 5px;
 }
+#sub{
+   font-size: 17px;
+   display: block;
+   width: auto;
+   margin: auto;
+   border-radius: 7px;
+   border:2px solid grey;
+   padding: 7px 7px;
+   margin-top: 7px;
+   cursor: pointer;
+}
 
 
