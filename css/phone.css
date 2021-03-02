@@ -7,6 +7,12 @@
     padding: 0px 7px;
     padding-bottom: 8px;
 }
+#logo img{
+    margin: 0px 25px;
+    padding: 3px;
+    width: 50px;
+    height: 50px;
+}
 /* Home */
 #home{
      height: 370px;
@@ -40,6 +46,9 @@
 .h-primary{
 font-size: 27px;
 }
+#home .h-primary{
+    font-size: 2.0rem;
+    }
 #btn{
     font-size: 12px;
     padding: 5px;
