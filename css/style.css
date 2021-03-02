@@ -96,7 +96,7 @@ h-secondary{
 #home p{
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 8px 5px;
 }
 #home h1{
     color: white;
@@ -107,8 +107,8 @@ h-secondary{
     border-radius: 7px;
     border: 2px solid white;
     margin: 10px 10px;
-    padding: 7px;
-    font-size: 18px;
+    padding: 8px;
+    font-size: 20px;
     cursor: pointer;
     color: white;
     background-color: rgb(177, 49, 49);
